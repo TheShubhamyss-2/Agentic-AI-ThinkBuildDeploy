@@ -1,0 +1,1 @@
+The slides contain the topic outline only. Upload the ppt into any LLM and ask it to explain the topics for understanding the content.
