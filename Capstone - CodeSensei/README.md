@@ -1,4 +1,4 @@
-# CodeSensei — AI-Powered Code Review & Learning Platform
+# 🥋CodeSensei — AI-Powered Code Review & Learning Platform
 
 > **Eval 2 Capstone Project** — Build a multi-agent AI system that reviews code, finds bugs, and helps students learn.
 
