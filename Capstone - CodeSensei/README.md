@@ -158,7 +158,7 @@ Complete these in order — each step builds on the previous one.
 ### Start the Server
 
 ```bash
-uvicorn app.main:app --reload --port 8000
+python -m uvicorn app.main:app --reload --port 8000
 ```
 
 ### Test with curl
